@@ -1,5 +1,5 @@
 ### Hey, sou Mariana Rio
-#### Estudante de Engenharia de Software da Universidade de Brasilia
+#### Estudante de Engenharia de Software da Universidade de Brasília
 
 <div align="center">
   <a href="https://github.com/MarianaPRio">
