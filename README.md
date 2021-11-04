@@ -1,4 +1,5 @@
-### Hey
+### Hey, sou a Mari 
+#### Estudante de Engenharia de Software da Universidade de Brasilia
 
 <div align="center">
   <a href="https://github.com/MarianaPRio">
