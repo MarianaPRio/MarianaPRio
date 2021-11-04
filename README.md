@@ -1,4 +1,4 @@
-### Hey, sou a Mari 
+### Hey, sou Mariana Rio
 #### Estudante de Engenharia de Software da Universidade de Brasilia
 
 <div align="center">
